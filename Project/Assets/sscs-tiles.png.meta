@@ -1,0 +1,7757 @@
+fileFormatVersion: 2
+guid: 28cd8d7a119e64ff3a22a230d903b825
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5579686620665278735
+    second: sscs-tiles_0
+  - first:
+      213: -1064242983001209814
+    second: sscs-tiles_1
+  - first:
+      213: 162631730773174036
+    second: sscs-tiles_2
+  - first:
+      213: 8236093261463195962
+    second: sscs-tiles_3
+  - first:
+      213: 697353348581593218
+    second: sscs-tiles_4
+  - first:
+      213: -6507718750657752000
+    second: sscs-tiles_5
+  - first:
+      213: -8802702607384927023
+    second: sscs-tiles_6
+  - first:
+      213: -5920604856979543916
+    second: sscs-tiles_7
+  - first:
+      213: -1366710075788163063
+    second: sscs-tiles_8
+  - first:
+      213: -3069813115471687157
+    second: sscs-tiles_9
+  - first:
+      213: 5468355588931830662
+    second: sscs-tiles_10
+  - first:
+      213: -2322458364284728242
+    second: sscs-tiles_11
+  - first:
+      213: 4835213696661653249
+    second: sscs-tiles_12
+  - first:
+      213: -8576079280730184990
+    second: sscs-tiles_13
+  - first:
+      213: -1514093950828061459
+    second: sscs-tiles_14
+  - first:
+      213: -3479179353182021670
+    second: sscs-tiles_15
+  - first:
+      213: -3966439015907551017
+    second: sscs-tiles_16
+  - first:
+      213: -6110101453510959319
+    second: sscs-tiles_17
+  - first:
+      213: -6353079162899971011
+    second: sscs-tiles_18
+  - first:
+      213: -3141320044029496684
+    second: sscs-tiles_19
+  - first:
+      213: -4079902203201793265
+    second: sscs-tiles_20
+  - first:
+      213: -3177540582353684772
+    second: sscs-tiles_21
+  - first:
+      213: 3550981607337350168
+    second: sscs-tiles_22
+  - first:
+      213: 4326487885990421716
+    second: sscs-tiles_23
+  - first:
+      213: 3816397125790465669
+    second: sscs-tiles_24
+  - first:
+      213: 1476413143207060237
+    second: sscs-tiles_25
+  - first:
+      213: 4756382643735677361
+    second: sscs-tiles_26
+  - first:
+      213: -8156137470943859304
+    second: sscs-tiles_27
+  - first:
+      213: -4554767332212934658
+    second: sscs-tiles_28
+  - first:
+      213: -6878472865256308211
+    second: sscs-tiles_29
+  - first:
+      213: -9153801903327714849
+    second: sscs-tiles_30
+  - first:
+      213: 4355300000740670697
+    second: sscs-tiles_31
+  - first:
+      213: -6480476066254887100
+    second: sscs-tiles_32
+  - first:
+      213: 5978742963042445844
+    second: sscs-tiles_33
+  - first:
+      213: 5328750029949648088
+    second: sscs-tiles_34
+  - first:
+      213: -6280103707796244728
+    second: sscs-tiles_35
+  - first:
+      213: -1582032998462969612
+    second: sscs-tiles_36
+  - first:
+      213: 910014880374232224
+    second: sscs-tiles_37
+  - first:
+      213: 6400309212480269614
+    second: sscs-tiles_38
+  - first:
+      213: -832990342298541244
+    second: sscs-tiles_39
+  - first:
+      213: -6482094067993658275
+    second: sscs-tiles_40
+  - first:
+      213: -3874347520255749019
+    second: sscs-tiles_41
+  - first:
+      213: -519580465815813156
+    second: sscs-tiles_42
+  - first:
+      213: 457698087658810673
+    second: sscs-tiles_43
+  - first:
+      213: 3660873681985965610
+    second: sscs-tiles_44
+  - first:
+      213: 6272216547108415343
+    second: sscs-tiles_45
+  - first:
+      213: -3488385275256896711
+    second: sscs-tiles_46
+  - first:
+      213: -1624058618220048004
+    second: sscs-tiles_47
+  - first:
+      213: -7201521889365705034
+    second: sscs-tiles_48
+  - first:
+      213: 2900116065946826546
+    second: sscs-tiles_49
+  - first:
+      213: -4120796612825534265
+    second: sscs-tiles_50
+  - first:
+      213: -1871275157479120505
+    second: sscs-tiles_51
+  - first:
+      213: 742767760718626474
+    second: sscs-tiles_52
+  - first:
+      213: -4184244166548769207
+    second: sscs-tiles_53
+  - first:
+      213: -679793654806611385
+    second: sscs-tiles_54
+  - first:
+      213: -6167651259344010170
+    second: sscs-tiles_55
+  - first:
+      213: -696581930734257925
+    second: sscs-tiles_56
+  - first:
+      213: 5567061187975929083
+    second: sscs-tiles_57
+  - first:
+      213: 7936419027605739220
+    second: sscs-tiles_58
+  - first:
+      213: 6882789491443664396
+    second: sscs-tiles_59
+  - first:
+      213: 5709248388393792061
+    second: sscs-tiles_60
+  - first:
+      213: 6285806951602244481
+    second: sscs-tiles_61
+  - first:
+      213: -2572176180396946957
+    second: sscs-tiles_62
+  - first:
+      213: -4458906548750591948
+    second: sscs-tiles_63
+  - first:
+      213: 1019023951258592014
+    second: sscs-tiles_64
+  - first:
+      213: -1870699780828034252
+    second: sscs-tiles_65
+  - first:
+      213: 1685549668452655527
+    second: sscs-tiles_66
+  - first:
+      213: 8479435765617396309
+    second: sscs-tiles_67
+  - first:
+      213: 1264680151222735346
+    second: sscs-tiles_68
+  - first:
+      213: 7170040764432950364
+    second: sscs-tiles_69
+  - first:
+      213: -8786975123993567474
+    second: sscs-tiles_70
+  - first:
+      213: -3438787168694137595
+    second: sscs-tiles_71
+  - first:
+      213: 4799445792857098523
+    second: sscs-tiles_72
+  - first:
+      213: 6521417641121488588
+    second: sscs-tiles_73
+  - first:
+      213: -1658238276414671245
+    second: sscs-tiles_74
+  - first:
+      213: 7244976841176273418
+    second: sscs-tiles_75
+  - first:
+      213: -1088339531784550897
+    second: sscs-tiles_76
+  - first:
+      213: -8429159912382729409
+    second: sscs-tiles_77
+  - first:
+      213: -9179270196602026170
+    second: sscs-tiles_78
+  - first:
+      213: 8241371345213076230
+    second: sscs-tiles_79
+  - first:
+      213: 6659491121175954388
+    second: sscs-tiles_80
+  - first:
+      213: -7359173951867591729
+    second: sscs-tiles_81
+  - first:
+      213: -3496776319224673754
+    second: sscs-tiles_82
+  - first:
+      213: 1470891793439409042
+    second: sscs-tiles_83
+  - first:
+      213: 7520427334804152870
+    second: sscs-tiles_84
+  - first:
+      213: 4304744531612812232
+    second: sscs-tiles_85
+  - first:
+      213: -7515140678093723646
+    second: sscs-tiles_86
+  - first:
+      213: 3024799457469454363
+    second: sscs-tiles_87
+  - first:
+      213: -2293604405717559473
+    second: sscs-tiles_88
+  - first:
+      213: 393290052250095538
+    second: sscs-tiles_89
+  - first:
+      213: -4785232543015936271
+    second: sscs-tiles_90
+  - first:
+      213: -5182559418025547991
+    second: sscs-tiles_91
+  - first:
+      213: 7902085187443356830
+    second: sscs-tiles_92
+  - first:
+      213: 3345340929045490262
+    second: sscs-tiles_93
+  - first:
+      213: -7116472699775431760
+    second: sscs-tiles_94
+  - first:
+      213: -108548412297242575
+    second: sscs-tiles_95
+  - first:
+      213: -3857195160393792259
+    second: sscs-tiles_96
+  - first:
+      213: -9071322037176580361
+    second: sscs-tiles_97
+  - first:
+      213: 6597549981822292767
+    second: sscs-tiles_98
+  - first:
+      213: -2360102238548623062
+    second: sscs-tiles_99
+  - first:
+      213: 2261351973434202919
+    second: sscs-tiles_100
+  - first:
+      213: 4546011823045791424
+    second: sscs-tiles_101
+  - first:
+      213: 4659410589051659081
+    second: sscs-tiles_102
+  - first:
+      213: -7028498315748811599
+    second: sscs-tiles_103
+  - first:
+      213: 34457762378485745
+    second: sscs-tiles_104
+  - first:
+      213: 8961470965952247946
+    second: sscs-tiles_105
+  - first:
+      213: -3317908661763377297
+    second: sscs-tiles_106
+  - first:
+      213: 3842175824377737744
+    second: sscs-tiles_107
+  - first:
+      213: 1886342002183643824
+    second: sscs-tiles_108
+  - first:
+      213: -8475746664917943182
+    second: sscs-tiles_109
+  - first:
+      213: 5556133461981751005
+    second: sscs-tiles_110
+  - first:
+      213: -4642719394149359569
+    second: sscs-tiles_111
+  - first:
+      213: 4513224162463233185
+    second: sscs-tiles_112
+  - first:
+      213: 4658549621019856881
+    second: sscs-tiles_113
+  - first:
+      213: -6085699375042436205
+    second: sscs-tiles_114
+  - first:
+      213: -2721218627982726379
+    second: sscs-tiles_115
+  - first:
+      213: -1119939429601851584
+    second: sscs-tiles_116
+  - first:
+      213: -372389115406392099
+    second: sscs-tiles_117
+  - first:
+      213: 4737648289513912373
+    second: sscs-tiles_118
+  - first:
+      213: -275382226073397182
+    second: sscs-tiles_119
+  - first:
+      213: 5535666295222023876
+    second: sscs-tiles_120
+  - first:
+      213: -5795307497338423615
+    second: sscs-tiles_121
+  - first:
+      213: -5758838590177999257
+    second: sscs-tiles_122
+  - first:
+      213: -7930386617682241266
+    second: sscs-tiles_123
+  - first:
+      213: -2526171518392340601
+    second: sscs-tiles_124
+  - first:
+      213: -7010316425219291777
+    second: sscs-tiles_125
+  - first:
+      213: -1420879861427542220
+    second: sscs-tiles_126
+  - first:
+      213: -8226141818804469493
+    second: sscs-tiles_127
+  - first:
+      213: -8514056003775312638
+    second: sscs-tiles_128
+  - first:
+      213: 5939955360895053221
+    second: sscs-tiles_129
+  - first:
+      213: -3546076956821144737
+    second: sscs-tiles_130
+  - first:
+      213: -3435034051076546575
+    second: sscs-tiles_131
+  - first:
+      213: 3188774082870924734
+    second: sscs-tiles_132
+  - first:
+      213: 3411426122973938993
+    second: sscs-tiles_133
+  - first:
+      213: -3505410470790763794
+    second: sscs-tiles_134
+  - first:
+      213: -8323607279344161064
+    second: sscs-tiles_135
+  - first:
+      213: 8995011331909001671
+    second: sscs-tiles_136
+  - first:
+      213: -7143114875767348210
+    second: sscs-tiles_137
+  - first:
+      213: 4618809270982753073
+    second: sscs-tiles_138
+  - first:
+      213: -4649667629407279204
+    second: sscs-tiles_139
+  - first:
+      213: 8918266189194974470
+    second: sscs-tiles_140
+  - first:
+      213: -8314707788534571205
+    second: sscs-tiles_141
+  - first:
+      213: -1672753094003263746
+    second: sscs-tiles_142
+  - first:
+      213: 45813127684595801
+    second: sscs-tiles_143
+  - first:
+      213: -3398159535522485533
+    second: sscs-tiles_144
+  - first:
+      213: -1642307700777973149
+    second: sscs-tiles_145
+  - first:
+      213: -7822549729242280585
+    second: sscs-tiles_146
+  - first:
+      213: 2691205973242185282
+    second: sscs-tiles_147
+  - first:
+      213: 3717067509789766354
+    second: sscs-tiles_148
+  - first:
+      213: -7377167759654199377
+    second: sscs-tiles_149
+  - first:
+      213: 3264610453556298472
+    second: sscs-tiles_150
+  - first:
+      213: -6252266879190892388
+    second: sscs-tiles_151
+  - first:
+      213: 8361432700664375579
+    second: sscs-tiles_152
+  - first:
+      213: 4793012331573871749
+    second: sscs-tiles_153
+  - first:
+      213: -6856333548871283985
+    second: sscs-tiles_154
+  - first:
+      213: 2556119340075711733
+    second: sscs-tiles_155
+  - first:
+      213: -6970905483262959125
+    second: sscs-tiles_156
+  - first:
+      213: -1795492731453603831
+    second: sscs-tiles_157
+  - first:
+      213: -3420755883830306432
+    second: sscs-tiles_158
+  - first:
+      213: -3549029152786348345
+    second: sscs-tiles_159
+  - first:
+      213: 5798114659055444534
+    second: sscs-tiles_160
+  - first:
+      213: -677827682874372327
+    second: sscs-tiles_161
+  - first:
+      213: 1811118397612245510
+    second: sscs-tiles_162
+  - first:
+      213: -4007930292879208693
+    second: sscs-tiles_163
+  - first:
+      213: -8884441670763588418
+    second: sscs-tiles_164
+  - first:
+      213: 7387980231772600553
+    second: sscs-tiles_165
+  - first:
+      213: 3933299081707434843
+    second: sscs-tiles_166
+  - first:
+      213: 5040215168551775872
+    second: sscs-tiles_167
+  - first:
+      213: 6457648460852287302
+    second: sscs-tiles_168
+  - first:
+      213: 8487496955537116022
+    second: sscs-tiles_169
+  - first:
+      213: 2891922245716531139
+    second: sscs-tiles_170
+  - first:
+      213: 5033282880933683724
+    second: sscs-tiles_171
+  - first:
+      213: -837618317694326378
+    second: sscs-tiles_172
+  - first:
+      213: -2182437289767738463
+    second: sscs-tiles_173
+  - first:
+      213: 8177915303241632055
+    second: sscs-tiles_174
+  - first:
+      213: -9043424197125205129
+    second: sscs-tiles_175
+  - first:
+      213: -8325153001244773145
+    second: sscs-tiles_176
+  - first:
+      213: 4086978320615499545
+    second: sscs-tiles_177
+  - first:
+      213: 6637540319026956559
+    second: sscs-tiles_178
+  - first:
+      213: 7242269242225794744
+    second: sscs-tiles_179
+  - first:
+      213: 4951361402737803851
+    second: sscs-tiles_180
+  - first:
+      213: -4578233330146781644
+    second: sscs-tiles_181
+  - first:
+      213: 7503502884164584329
+    second: sscs-tiles_182
+  - first:
+      213: 3049270953013136364
+    second: sscs-tiles_183
+  - first:
+      213: 1344150936350318332
+    second: sscs-tiles_184
+  - first:
+      213: -4894376207122903967
+    second: sscs-tiles_185
+  - first:
+      213: 3928118564199381630
+    second: sscs-tiles_186
+  - first:
+      213: 4729221725318164371
+    second: sscs-tiles_187
+  - first:
+      213: 7205336436937676460
+    second: sscs-tiles_188
+  - first:
+      213: -8915713241424746750
+    second: sscs-tiles_189
+  - first:
+      213: -6630041762259582174
+    second: sscs-tiles_190
+  - first:
+      213: 5366442357404218188
+    second: sscs-tiles_191
+  - first:
+      213: -33109204546792233
+    second: sscs-tiles_192
+  - first:
+      213: 3527023217512241273
+    second: sscs-tiles_193
+  - first:
+      213: -882536587570466890
+    second: sscs-tiles_194
+  - first:
+      213: -5076588428752741405
+    second: sscs-tiles_195
+  - first:
+      213: 5163924784578820977
+    second: sscs-tiles_196
+  - first:
+      213: 6174780816218170097
+    second: sscs-tiles_197
+  - first:
+      213: 1582943837261265134
+    second: sscs-tiles_198
+  - first:
+      213: -6545677828949559461
+    second: sscs-tiles_199
+  - first:
+      213: -5395950373734200800
+    second: sscs-tiles_200
+  - first:
+      213: -250527201734650724
+    second: sscs-tiles_201
+  - first:
+      213: 6071782058284408695
+    second: sscs-tiles_202
+  - first:
+      213: 7662932425825787320
+    second: sscs-tiles_203
+  - first:
+      213: -5618104039733120440
+    second: sscs-tiles_204
+  - first:
+      213: 5756952206445623207
+    second: sscs-tiles_205
+  - first:
+      213: -5199167618167417741
+    second: sscs-tiles_206
+  - first:
+      213: -468770947944647202
+    second: sscs-tiles_207
+  - first:
+      213: 2585216322551762513
+    second: sscs-tiles_208
+  - first:
+      213: -3551839879542719440
+    second: sscs-tiles_209
+  - first:
+      213: -6005673560257397387
+    second: sscs-tiles_210
+  - first:
+      213: -2267542185838125875
+    second: sscs-tiles_211
+  - first:
+      213: 4925977339374363766
+    second: sscs-tiles_212
+  - first:
+      213: 5636782763123678765
+    second: sscs-tiles_213
+  - first:
+      213: 6222096818780893964
+    second: sscs-tiles_214
+  - first:
+      213: -7947147003681546519
+    second: sscs-tiles_215
+  - first:
+      213: -5789898672800438371
+    second: sscs-tiles_216
+  - first:
+      213: -8644521074548295627
+    second: sscs-tiles_217
+  - first:
+      213: -4185780071082900036
+    second: sscs-tiles_218
+  - first:
+      213: -5838875226960997422
+    second: sscs-tiles_219
+  - first:
+      213: 1817764810733526295
+    second: sscs-tiles_220
+  - first:
+      213: -797609445995603245
+    second: sscs-tiles_221
+  - first:
+      213: 6807959200791819379
+    second: sscs-tiles_222
+  - first:
+      213: -1621385758107539857
+    second: sscs-tiles_223
+  - first:
+      213: -1782888429742155883
+    second: sscs-tiles_224
+  - first:
+      213: -369107418897886287
+    second: sscs-tiles_225
+  - first:
+      213: 4803710380638495999
+    second: sscs-tiles_226
+  - first:
+      213: 3792901508953487531
+    second: sscs-tiles_227
+  - first:
+      213: -936968755392311044
+    second: sscs-tiles_228
+  - first:
+      213: -1766092810696715803
+    second: sscs-tiles_229
+  - first:
+      213: -4678188200275020920
+    second: sscs-tiles_230
+  - first:
+      213: 7127515662172275732
+    second: sscs-tiles_231
+  - first:
+      213: -2914998907328532078
+    second: sscs-tiles_232
+  - first:
+      213: 8129367836586849128
+    second: sscs-tiles_233
+  - first:
+      213: 1122547096349772838
+    second: sscs-tiles_234
+  - first:
+      213: 54919871403335602
+    second: sscs-tiles_235
+  - first:
+      213: -529696398966896311
+    second: sscs-tiles_236
+  - first:
+      213: -2548699996736475829
+    second: sscs-tiles_237
+  - first:
+      213: -3887479403638632284
+    second: sscs-tiles_238
+  - first:
+      213: 8459941754730514990
+    second: sscs-tiles_239
+  - first:
+      213: -1957934428698011878
+    second: sscs-tiles_240
+  - first:
+      213: 6115031576483177224
+    second: sscs-tiles_241
+  - first:
+      213: 5846106807854122053
+    second: sscs-tiles_242
+  - first:
+      213: -6354299445578352172
+    second: sscs-tiles_243
+  - first:
+      213: 6742431829012066531
+    second: sscs-tiles_244
+  - first:
+      213: 4902937220647470975
+    second: sscs-tiles_245
+  - first:
+      213: 974998040077129462
+    second: sscs-tiles_246
+  - first:
+      213: 2785862436545534230
+    second: sscs-tiles_247
+  - first:
+      213: 1859116118984071570
+    second: sscs-tiles_248
+  - first:
+      213: -5137977165448816727
+    second: sscs-tiles_249
+  - first:
+      213: 2965100789583765172
+    second: sscs-tiles_250
+  - first:
+      213: 6412563415456941591
+    second: sscs-tiles_251
+  - first:
+      213: 7824539592120223725
+    second: sscs-tiles_252
+  - first:
+      213: 3463322247306443697
+    second: sscs-tiles_253
+  - first:
+      213: -1218698158372931105
+    second: sscs-tiles_254
+  - first:
+      213: 7323068116027523695
+    second: sscs-tiles_255
+  - first:
+      213: -3983690397626137793
+    second: sscs-tiles_256
+  - first:
+      213: -217410920704728104
+    second: sscs-tiles_257
+  - first:
+      213: -1602608640955695499
+    second: sscs-tiles_258
+  - first:
+      213: 7854167101437948327
+    second: sscs-tiles_259
+  - first:
+      213: 6300322712733716611
+    second: sscs-tiles_260
+  - first:
+      213: 8231651863480045949
+    second: sscs-tiles_261
+  - first:
+      213: 7675212399589385469
+    second: sscs-tiles_262
+  - first:
+      213: -2825465418333439290
+    second: sscs-tiles_263
+  - first:
+      213: -1789190769659638962
+    second: sscs-tiles_264
+  - first:
+      213: -3267988658181374881
+    second: sscs-tiles_265
+  - first:
+      213: 5188596957183024589
+    second: sscs-tiles_266
+  - first:
+      213: 7764133855424492480
+    second: sscs-tiles_267
+  - first:
+      213: 7370515494341438911
+    second: sscs-tiles_268
+  - first:
+      213: -4997879580583255285
+    second: sscs-tiles_269
+  - first:
+      213: 8081086944120623505
+    second: sscs-tiles_270
+  - first:
+      213: -340293732473966505
+    second: sscs-tiles_271
+  - first:
+      213: -2367466690992087523
+    second: sscs-tiles_272
+  - first:
+      213: -3388047689699172910
+    second: sscs-tiles_273
+  - first:
+      213: -1109555160160245473
+    second: sscs-tiles_274
+  - first:
+      213: -3607036909590636750
+    second: sscs-tiles_275
+  - first:
+      213: 7262508876818498283
+    second: sscs-tiles_276
+  - first:
+      213: -6689210701305765396
+    second: sscs-tiles_277
+  - first:
+      213: 6780331093918235980
+    second: sscs-tiles_278
+  - first:
+      213: 3906870182361905781
+    second: sscs-tiles_279
+  - first:
+      213: -8861519018123954417
+    second: sscs-tiles_280
+  - first:
+      213: -412582522035917632
+    second: sscs-tiles_281
+  - first:
+      213: -1385608360002606972
+    second: sscs-tiles_282
+  - first:
+      213: -5102545749789569443
+    second: sscs-tiles_283
+  - first:
+      213: 8541191022199304630
+    second: sscs-tiles_284
+  - first:
+      213: -3210327661079467767
+    second: sscs-tiles_285
+  - first:
+      213: 7491857237314686221
+    second: sscs-tiles_286
+  - first:
+      213: 2323772969189644646
+    second: sscs-tiles_287
+  - first:
+      213: -9213956255554310346
+    second: sscs-tiles_288
+  - first:
+      213: 8030022790608380364
+    second: sscs-tiles_289
+  - first:
+      213: -7561721186916282268
+    second: sscs-tiles_290
+  - first:
+      213: -8773744234228377517
+    second: sscs-tiles_291
+  - first:
+      213: -7755740211822449628
+    second: sscs-tiles_292
+  - first:
+      213: 6896078549586527850
+    second: sscs-tiles_293
+  - first:
+      213: -385294696666075829
+    second: sscs-tiles_294
+  - first:
+      213: -7283737252237208332
+    second: sscs-tiles_295
+  - first:
+      213: 7093578699478266536
+    second: sscs-tiles_296
+  - first:
+      213: 6799630648780882511
+    second: sscs-tiles_297
+  - first:
+      213: 8122461758407070407
+    second: sscs-tiles_298
+  - first:
+      213: -7441547462545365609
+    second: sscs-tiles_299
+  - first:
+      213: -2841848166500062040
+    second: sscs-tiles_300
+  - first:
+      213: 5098039412564194789
+    second: sscs-tiles_301
+  - first:
+      213: -5668003757162837036
+    second: sscs-tiles_302
+  - first:
+      213: -178831552659878187
+    second: sscs-tiles_303
+  - first:
+      213: -7426176835100370606
+    second: sscs-tiles_304
+  - first:
+      213: 8798841495404807385
+    second: sscs-tiles_305
+  - first:
+      213: 2520431127112257506
+    second: sscs-tiles_306
+  - first:
+      213: 1117428242599154327
+    second: sscs-tiles_307
+  - first:
+      213: -8282875034598788463
+    second: sscs-tiles_308
+  - first:
+      213: 5455376892098949021
+    second: sscs-tiles_309
+  - first:
+      213: -3890826241721882074
+    second: sscs-tiles_310
+  - first:
+      213: -3147878415425393242
+    second: sscs-tiles_311
+  - first:
+      213: -6682890366480606198
+    second: sscs-tiles_312
+  - first:
+      213: -5101095499143032480
+    second: sscs-tiles_313
+  - first:
+      213: -3943086487436050030
+    second: sscs-tiles_314
+  - first:
+      213: 932346004300183712
+    second: sscs-tiles_315
+  - first:
+      213: 7144485407879780390
+    second: sscs-tiles_316
+  - first:
+      213: 1235016407480642285
+    second: sscs-tiles_317
+  - first:
+      213: 221121025611320740
+    second: sscs-tiles_318
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sscs-tiles_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 169.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c547a880239d44c5a47f238025e8d93
+      internalID: -5579686620665278735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_1
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 169.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bf6c8dd73f5b491a821f59c17bd1cb0
+      internalID: -1064242983001209814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_2
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 169.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fabc3ba5758c487fbcc9891b06294a3
+      internalID: 162631730773174036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_3
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 169.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c3b38187becc4796bd5c10352d3efe8
+      internalID: 8236093261463195962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_4
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 169.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6541dc13479e441a8944b14f6b9e7f95
+      internalID: 697353348581593218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_5
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 169.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4c60157b7ade4c6fa058eaaa8024886
+      internalID: -6507718750657752000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_6
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 169.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cff194aca7d1c4fb4aaffcf65feb4835
+      internalID: -8802702607384927023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_7
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 169.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 676a23793e2df4daa8eb8504c8c06aae
+      internalID: -5920604856979543916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_8
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 169.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d044b75f0c50140d6a04e7621623ba7a
+      internalID: -1366710075788163063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_9
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 169.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef0b974946b6c4ae3a318c6774fd0e70
+      internalID: -3069813115471687157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_10
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 169.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b692db71c32ed4d5f8a58aa86f86eea1
+      internalID: 5468355588931830662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_11
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 169.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ec801805ae68465aa9c26ea72833b0a
+      internalID: -2322458364284728242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_12
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 169.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ece0397be92c24a09a148629bef08e0b
+      internalID: 4835213696661653249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_13
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 169.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8c68f12c5904485ba5b05d44407b786
+      internalID: -8576079280730184990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_14
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 169.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17df38983fa624d989ad8ebd4368ca8e
+      internalID: -1514093950828061459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_15
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 169.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34e134d56ae7f49a5a1167243c4e9e97
+      internalID: -3479179353182021670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_16
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 169.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d78ac3fc49194773b54227abbfacd41
+      internalID: -3966439015907551017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_17
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 169.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54f99f017b6ff439f80cfa672bf974e0
+      internalID: -6110101453510959319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_18
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 169.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c01ff45d03f284b50a9e9ec6de508c74
+      internalID: -6353079162899971011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_19
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 169.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e61f524a29086411b8c57906e0e3b3d9
+      internalID: -3141320044029496684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_20
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 169.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f416a8db717343d299b2feaf5f6fdba
+      internalID: -4079902203201793265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_21
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 169.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eee7dfeaaed244d28a2c9f24c8b82c7
+      internalID: -3177540582353684772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_22
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 169.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 063a6982c5c1d41e6a8c80ad9365843c
+      internalID: 3550981607337350168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_23
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 169.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95ad88a5c691c4cbbaa10b99d57e4f48
+      internalID: 4326487885990421716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_24
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 169.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94bb3a4a358f34efea1a53868ae7c4e2
+      internalID: 3816397125790465669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_25
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 169.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84bdb029063104a6a9081067c74e3361
+      internalID: 1476413143207060237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_26
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 169.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 664ef3720139a4e6f9c8123b94a14903
+      internalID: 4756382643735677361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_27
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 169.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a34c9a89e1654e6a8b076977102c38d
+      internalID: -8156137470943859304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_28
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 169.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d31e7e9008f84724959c8420150b9b3
+      internalID: -4554767332212934658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_29
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 153.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73d2d524a2cc748d597d6d9a4ba56903
+      internalID: -6878472865256308211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_30
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 153.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03a7f3d8637864614bec1458f7ea88ad
+      internalID: -9153801903327714849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_31
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 153.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0463fa12fdc064b2e919586971f40b49
+      internalID: 4355300000740670697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_32
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 153.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ea644e4f9d4340dd88a8808053ae581
+      internalID: -6480476066254887100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_33
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 153.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d08e4a8a239fa45c3b623fafbe1c9d5c
+      internalID: 5978742963042445844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_34
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 153.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b1ddd3cb7ef44e2b823f0b4563398ad
+      internalID: 5328750029949648088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_35
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 153.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f021130b7e076404cbf7add30efb28a6
+      internalID: -6280103707796244728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_36
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 153.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad2fbf78492094284a4487b1d9abea76
+      internalID: -1582032998462969612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_37
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 153.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbdf91ab3395c4a5b8417d6b2becd09e
+      internalID: 910014880374232224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_38
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 153.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96a681c698b4f4f76bc156541aa3e6fc
+      internalID: 6400309212480269614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_39
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 153.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 207fe840f65a64f66879f2ce91d574d7
+      internalID: -832990342298541244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_40
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 153.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29db0b782701f42569dbd755595101fa
+      internalID: -6482094067993658275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_41
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 153.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e9ca7169a46441659455c963195d33c
+      internalID: -3874347520255749019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_42
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 153.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 337a09c495c414e31a3424b74195d8f0
+      internalID: -519580465815813156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_43
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 153.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31919b7e95e82451c8c73e52eedb4cfb
+      internalID: 457698087658810673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_44
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 153.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93bc61edea2834612b547619e2ef37ed
+      internalID: 3660873681985965610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_45
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 153.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62d264d833b394225880c3fe271c0f76
+      internalID: 6272216547108415343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_46
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 153.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e874c08d1d6b45db98c167934ac7e94
+      internalID: -3488385275256896711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_47
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 153.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aebbda461e93402fb9b99c6cf0033ed
+      internalID: -1624058618220048004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_48
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 153.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5921a069ad5484e6a9535fa6619db1bf
+      internalID: -7201521889365705034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_49
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 153.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fe5fe5516eff49be8196119619a0a62
+      internalID: 2900116065946826546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_50
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 153.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84afb5c7fee884e309bd7000c5c0d1ac
+      internalID: -4120796612825534265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_51
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 153.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 725c3f1b74cae4da18a1a73cd34d5a54
+      internalID: -1871275157479120505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_52
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 153.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23b195ce1a4df41aa88a4a3f11eaa566
+      internalID: 742767760718626474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_53
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 153.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27401c241653a401a8378d567f6783b8
+      internalID: -4184244166548769207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_54
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 153.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6e53b8853751415e84af1be80807980
+      internalID: -679793654806611385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_55
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 153.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80405a6c425524facb0c7e96bd807bdc
+      internalID: -6167651259344010170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_56
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 153.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abb7ee4630f78490dbfbf479c1f244a9
+      internalID: -696581930734257925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_57
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 153.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9698e93e08b834768858385c97cd56e0
+      internalID: 5567061187975929083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_58
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 137.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62050cd3a30174a0db8415d9c510bfc9
+      internalID: 7936419027605739220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_59
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 137.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a46472a44ffcb4b2ab6e7825cea90847
+      internalID: 6882789491443664396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_60
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 137.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfc52991a43b54a8581c8e5369684059
+      internalID: 5709248388393792061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_61
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 137.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a90b8be46edc84bf58a1ab7b0b1e2058
+      internalID: 6285806951602244481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_62
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 137.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d3c7eae1fdfd4d239451ae8ce39ba34
+      internalID: -2572176180396946957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_63
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 137.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7063cef63de747e39bf0f96ccbedc72
+      internalID: -4458906548750591948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_64
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 137.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42e4de4199ba442acaa76f8deb58d08b
+      internalID: 1019023951258592014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_65
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 137.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c908df96520ff4f4bbb641ec70eee12e
+      internalID: -1870699780828034252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_66
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 137.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9d43f1f8be364089bc59c09f1964546
+      internalID: 1685549668452655527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_67
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 137.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 893f2f1c008e34b6bb385322595e5913
+      internalID: 8479435765617396309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_68
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 137.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e79719a1d7c14621a169e35e10e4d8c
+      internalID: 1264680151222735346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_69
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 137.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae899abdd00bf474eb47b0da54e1b145
+      internalID: 7170040764432950364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_70
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 137.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9141ea54f9ddd41b18ce36ed09e79b1b
+      internalID: -8786975123993567474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_71
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 137.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb633fc06597548d28ff9e146d92a121
+      internalID: -3438787168694137595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_72
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 137.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c2a160fcdfe946598c9c0fbd6348baf
+      internalID: 4799445792857098523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_73
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 137.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e63f6a8b0efc4cd683d7aeed51aade7
+      internalID: 6521417641121488588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_74
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 137.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43b4096d3176c49b38cbf9ef4fd0d468
+      internalID: -1658238276414671245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_75
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 137.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 472f8add84f9d46f8867fc2b1f0f12d0
+      internalID: 7244976841176273418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_76
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 137.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1a578f82dd6941adb20e601c8dd8b3f
+      internalID: -1088339531784550897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_77
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 137.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39f684fb95cb74d34b90a16b3f93240c
+      internalID: -8429159912382729409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_78
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 137.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13975f21979d44d57b3c721ec3d3e380
+      internalID: -9179270196602026170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_79
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 137.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4405d057081348718785058d15b1823
+      internalID: 8241371345213076230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_80
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 137.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 579a116efe09f4d7da2d29626af9899a
+      internalID: 6659491121175954388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_81
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 137.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c0b67e76ed584e31a5776c85765352d
+      internalID: -7359173951867591729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_82
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 137.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9410d80a0c34455984777ae7d52c8d3
+      internalID: -3496776319224673754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_83
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 137.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c1aa4ccb0b234f678361a5931a8b07a
+      internalID: 1470891793439409042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_84
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 137.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 789fdaadadd724523ad33d1322276d61
+      internalID: 7520427334804152870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_85
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 137.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bcce4b1ed83849beaf0205570c8a3ef
+      internalID: 4304744531612812232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_86
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 137.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4411b57879ca3483e92ee8deb5ac7782
+      internalID: -7515140678093723646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_87
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 121.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae4e03f315cf14cbb9f75c1414231c17
+      internalID: 3024799457469454363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_88
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 121.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd2bf6d09dc974389bc0ff12343cb3cb
+      internalID: -2293604405717559473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_89
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 121.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a20f3f3529dc46fa8a6ac8369a5d317
+      internalID: 393290052250095538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_90
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 121.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 940738495bf6b48f59d2e1a508b03131
+      internalID: -4785232543015936271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_91
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 121.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a0f10e50f456443a84c09a19052b0d3
+      internalID: -5182559418025547991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_92
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 121.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79a1e9cf245de4b07b28d78282141dd7
+      internalID: 7902085187443356830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_93
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 121.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22c6ec773b25847e9bc65c11b66ab3a0
+      internalID: 3345340929045490262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_94
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 121.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a51f1ba9ceb8344708bb28d4c61e515a
+      internalID: -7116472699775431760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_95
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 121.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99bb70724324f4ece96b9f84c6296559
+      internalID: -108548412297242575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_96
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 121.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92d320f51c4814b8a9127e8973c7e130
+      internalID: -3857195160393792259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_97
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 121.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae12e928ae8a24ee794f1603f32183de
+      internalID: -9071322037176580361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_98
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 121.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6a2c2a73ea784b9dbe7d3099667ddaf
+      internalID: 6597549981822292767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_99
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 121.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89f9a2d3e357246b69b42531e4fdc6cd
+      internalID: -2360102238548623062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_100
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 121.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03989430b73494747bfb434626c8ecf0
+      internalID: 2261351973434202919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_101
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 121.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a818d183d57af487199896d1b6f80503
+      internalID: 4546011823045791424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_102
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 121.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 471d9274bdfc94d1abae32fcdb5ce6f1
+      internalID: 4659410589051659081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_103
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 121.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd56a4a08c6744adf9b1c9394d6a83a0
+      internalID: -7028498315748811599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_104
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 121.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3585ba06dbd174152ba1421c5c68f7e5
+      internalID: 34457762378485745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_105
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 121.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 031ff553a316945f2915e59acc6a200f
+      internalID: 8961470965952247946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_106
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 121.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7cdf893c3a3a48cfa1abe67fe8980d2
+      internalID: -3317908661763377297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_107
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 121.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10615be9289c34e3493664ce987f8758
+      internalID: 3842175824377737744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_108
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 121.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f82ca1bf458f9436b84a646f3a63b156
+      internalID: 1886342002183643824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_109
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 121.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e5e16b7ce3b242fd87a47e63f38e1c5
+      internalID: -8475746664917943182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_110
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 121.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0068d9d37f1a41bc9fcc46a2675f0f8
+      internalID: 5556133461981751005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_111
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 121.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cb6b61190ceb4f8e9b8711e015db05a
+      internalID: -4642719394149359569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_112
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 121.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a52dcc8d60b5c4e5491d2c9ce8ba5228
+      internalID: 4513224162463233185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_113
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 121.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fc97afd3a0564c89b79ccab1ddb419d
+      internalID: 4658549621019856881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_114
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 121.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28597ca96def9489491dcb6cd78c6605
+      internalID: -6085699375042436205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_115
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 121.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c06b66fb58e8c41a6ab1b87a94f976b7
+      internalID: -2721218627982726379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_116
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 105.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa63cd18150804f3c8492be1fe34940b
+      internalID: -1119939429601851584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_117
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 105.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de9371f287bf74d74a99f6ae7b535833
+      internalID: -372389115406392099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_118
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 105.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02ed983e2d9fe458d88ca8cdb8610bee
+      internalID: 4737648289513912373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_119
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 105.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bf45a17fd5ab4d258540d7041f5a4cf
+      internalID: -275382226073397182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_120
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 105.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9858475100db4b2fbf2d1144bd74345
+      internalID: 5535666295222023876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_121
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 105.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93720e5d4d41449828a0ab01acedcb0b
+      internalID: -5795307497338423615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_122
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 105.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c3ca748faca44b2baf8b58c21b22800
+      internalID: -5758838590177999257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_123
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 105.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bf950f211bbb40919f6830c8c04cc61
+      internalID: -7930386617682241266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_124
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 105.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b01465234383f4d7591e5c6d030b7a57
+      internalID: -2526171518392340601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_125
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 105.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2818073f642644a2b01f955afa2bf36
+      internalID: -7010316425219291777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_126
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 105.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e477cff6cbb14f29b9aeb935322a6fc
+      internalID: -1420879861427542220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_127
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 105.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e71f6380942d403aae5f001a394f23d
+      internalID: -8226141818804469493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_128
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 105.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb345fca954f64f5ca42afa784cbf97c
+      internalID: -8514056003775312638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_129
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 105.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd7781115bce6469d9775bd7cabf5a63
+      internalID: 5939955360895053221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_130
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 105.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a34a95dca4c54d729d55f4d09ec5304
+      internalID: -3546076956821144737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_131
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 105.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f13f9b73d95c4842b546ed11b9eb875
+      internalID: -3435034051076546575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_132
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 105.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 336037c2142504795af4b4d1cbffa092
+      internalID: 3188774082870924734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_133
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 105.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c49b45c1275b54d9382c4f6046f001c0
+      internalID: 3411426122973938993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_134
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 105.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e7bc04b7226a490ba178ac09fc8f617
+      internalID: -3505410470790763794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_135
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 105.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d34f9418d5e0c421a953e499bcd5e07c
+      internalID: -8323607279344161064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_136
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 105.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26c731cf0093048b696744c025cbe9eb
+      internalID: 8995011331909001671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_137
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 105.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75b280bd92213409abf42f3b0a4d4941
+      internalID: -7143114875767348210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_138
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 105.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6463002d6dc434ca190d73a6c4d20a44
+      internalID: 4618809270982753073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_139
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 105.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52326cab0171947ce83f8f135a78294e
+      internalID: -4649667629407279204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_140
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 105.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0312d19f2340842a7b04d7517df416a0
+      internalID: 8918266189194974470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_141
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 105.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b700c468d3f204bd4afaca31a6a4dcef
+      internalID: -8314707788534571205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_142
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 105.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5991c4da20a0a4d02b3c4ca3ff17f5d3
+      internalID: -1672753094003263746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_143
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 105.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df9c1c55359b24d4bbc91ece4a4f3729
+      internalID: 45813127684595801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_144
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 105.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eae7bfe8dd02a490aa046d46c6cd23c1
+      internalID: -3398159535522485533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_145
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 89.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b5a424eb402d4455bfcd8472e590099
+      internalID: -1642307700777973149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_146
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 89.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fca9d9260a1064736ba1bef14f442e6f
+      internalID: -7822549729242280585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_147
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 89.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f15da2d5b6bcd4a589593ca4cadc3bd6
+      internalID: 2691205973242185282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_148
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 89.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f029742fb66b44378ace9ae1c7e7bb55
+      internalID: 3717067509789766354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_149
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 89.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1093779e0c36844c5a49b937e8203fb6
+      internalID: -7377167759654199377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_150
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 89.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fa0e7a611f0d4d81a4fa019c78b9161
+      internalID: 3264610453556298472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_151
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 89.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04c3aef95abcf49db973de79ce837dad
+      internalID: -6252266879190892388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_152
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 89.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c86e3c3f0b0f14876a05044207b38c39
+      internalID: 8361432700664375579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_153
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 89.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74e9b01da54af4a5a938adf3d3a6bdc8
+      internalID: 4793012331573871749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_154
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 89.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70a6547d1e9eb404c8bc2c64a9cf40e6
+      internalID: -6856333548871283985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_155
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 89.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 195aaa7bb7fd34de38a2d4bf95e3b497
+      internalID: 2556119340075711733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_156
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 89.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3ec131957ff940688f4938e8e1805d3
+      internalID: -6970905483262959125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_157
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 89.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e97f5d0f75d94c98b8a35d8475817fb
+      internalID: -1795492731453603831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_158
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 89.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e21a893336614fc28bb1abdc5d6b148
+      internalID: -3420755883830306432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_159
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 89.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 618b116c392184c31a2a8025714cf733
+      internalID: -3549029152786348345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_160
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 89.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe39fb6ad8e9c4178a492a27895c2168
+      internalID: 5798114659055444534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_161
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 89.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f54eb5216af7549a1acb1cb731be24e7
+      internalID: -677827682874372327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_162
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 89.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1ada3378337947eca3f6bab0b1fb734
+      internalID: 1811118397612245510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_163
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 89.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15500bf605aed498184d56c384e73447
+      internalID: -4007930292879208693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_164
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 89.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc382369cefd84d67836c93c2f0aab9c
+      internalID: -8884441670763588418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_165
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 89.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd512a77b2f5644599e793e9a1d21b89
+      internalID: 7387980231772600553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_166
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 89.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2031c79defdd742b6b3a6ca446b6bc24
+      internalID: 3933299081707434843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_167
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 89.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b641049bf5d074a12879c8ea564cf4f3
+      internalID: 5040215168551775872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_168
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 89.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51ad2a8b7d73c415d99562f02d29b8aa
+      internalID: 6457648460852287302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_169
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 89.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5748ae5953143490994591df349feb70
+      internalID: 8487496955537116022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_170
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 89.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3423d34994911410199f57f7eb6f9393
+      internalID: 2891922245716531139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_171
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 89.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bec59f52f2db4507a8eb5ab6a6db989
+      internalID: 5033282880933683724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_172
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 89.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57720a977d61e4a8c9caff38ac54d102
+      internalID: -837618317694326378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_173
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 89.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f942a8d8c08c14b04969809639d952ea
+      internalID: -2182437289767738463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_174
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 73.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86e9248e8b74844f8a6e1f6a59db94d0
+      internalID: 8177915303241632055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_175
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 73.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26a578e0a200545fd993213fee5f451a
+      internalID: -9043424197125205129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_176
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 73.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e1439b534a814c02b11aaa0492b76cb
+      internalID: -8325153001244773145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_177
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 73.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d767d127577cb4c7ea7361019090356d
+      internalID: 4086978320615499545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_178
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 73.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c61fb205a78d4f94bd74b000b3907aa
+      internalID: 6637540319026956559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_179
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 73.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d811a9109867b42918e80ce6b69933a4
+      internalID: 7242269242225794744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_180
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 73.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 530195bd29ca344139434a2fc2595127
+      internalID: 4951361402737803851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_181
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 73.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82a1a7a9e2f7e4374bc8bda362152f59
+      internalID: -4578233330146781644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_182
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 73.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6c9be5f55672427ab7f0e43bedcee43
+      internalID: 7503502884164584329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_183
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 73.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e87b2afe298c47909a90f64d15c9769
+      internalID: 3049270953013136364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_184
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 73.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d083166f5183740afa430f3d282028b9
+      internalID: 1344150936350318332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_185
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 73.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19450d2fed1f34e35a8d160b8d9906b0
+      internalID: -4894376207122903967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_186
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 73.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3719d033eccff43f794dcdfb8e05ca4a
+      internalID: 3928118564199381630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_187
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 73.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6e9375ffd9f646839ded1d8d39d3b24
+      internalID: 4729221725318164371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_188
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 73.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9d8403e8aaf540ce80edb08d6727294
+      internalID: 7205336436937676460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_189
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 73.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9b30d725a7a64f6c9906d2a2bf170b0
+      internalID: -8915713241424746750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_190
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 73.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60fe347f25ce54a2dae94abff2f8a071
+      internalID: -6630041762259582174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_191
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 73.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a107eeb136f6c4c958f331f754bdf259
+      internalID: 5366442357404218188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_192
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 73.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1be25f5ba68446178799ed74e8e7e31
+      internalID: -33109204546792233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_193
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 73.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ec42328ce98043c9a13a7f831bbff6b
+      internalID: 3527023217512241273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_194
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 73.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dd6ea2807fa04db281267bba3df646a
+      internalID: -882536587570466890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_195
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 73.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb03e88b3b1c44e078338e7fd0399494
+      internalID: -5076588428752741405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_196
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 73.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e47efd1585d564afc8c78cbfdd328596
+      internalID: 5163924784578820977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_197
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 73.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dfe645ca46bb49ecaa2a007d97c5f6a
+      internalID: 6174780816218170097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_198
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 73.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0077d94a3887d4335822dec7d50f8cf0
+      internalID: 1582943837261265134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_199
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 73.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d8542d88df6445bda2fb8a3a8d4db24
+      internalID: -6545677828949559461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_200
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 73.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c6ceec8dcb72499f88965777132b171
+      internalID: -5395950373734200800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_201
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 73.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfa90bac58c5a4c0783ac8a221a1d209
+      internalID: -250527201734650724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_202
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 73.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b2611490d86b497caf16b4b622a40ea
+      internalID: 6071782058284408695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_203
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 57.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8709c04d8fdc4d0da73f7cee81cc8df
+      internalID: 7662932425825787320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_204
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 57.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99421ed87175e4b1ca8dc8fc3e06e51f
+      internalID: -5618104039733120440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_205
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 57.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7f4ae4daa1994c008c204da58e44b41
+      internalID: 5756952206445623207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_206
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 57.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af930eefb22014d2f97a4f2b0b74d414
+      internalID: -5199167618167417741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_207
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 57.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b942bcf2e46b49f0aeef1602dfd6a46
+      internalID: -468770947944647202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_208
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 57.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab9d9448e6dce43b48b90eedaef4efe8
+      internalID: 2585216322551762513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_209
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 57.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c241c8204bb63466298be45f1644a139
+      internalID: -3551839879542719440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_210
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 57.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12234f0dda2e14db5b308bb447415a66
+      internalID: -6005673560257397387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_211
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 57.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dd02d2cc01cb449ba9d336f69556546
+      internalID: -2267542185838125875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_212
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 57.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ab5135cfdd914b84bd14fb5d131b910
+      internalID: 4925977339374363766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_213
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 57.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 141da9e06d54a427fa9000d1b8602dab
+      internalID: 5636782763123678765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_214
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 57.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4774fe8793e24e13ab0da9b804b85d0
+      internalID: 6222096818780893964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_215
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 57.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f7676c41558749a1a5aafd6b4dbf1c6
+      internalID: -7947147003681546519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_216
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 57.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2091fccaa5d042fe8e43d3e46afc8c2
+      internalID: -5789898672800438371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_217
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 57.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1dcd22efb41745f1a20358f0402e92e
+      internalID: -8644521074548295627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_218
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 57.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a76d8dcec18904b219bc3b8dba66e03a
+      internalID: -4185780071082900036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_219
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 57.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88a363a3ac40f49af9e18f8e0ff43fe7
+      internalID: -5838875226960997422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_220
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 57.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eec780d01c4e471bb0b4c6bbb407592
+      internalID: 1817764810733526295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_221
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 57.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17ea5ee134bed47c8bb56907a5782ca2
+      internalID: -797609445995603245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_222
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 57.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a992df33552004fadad1ad5f088039a0
+      internalID: 6807959200791819379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_223
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 57.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1b42ab200e724c9fb9dcf94b745a788
+      internalID: -1621385758107539857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_224
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 57.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4515933f0f36a4d309aa568e8f6e8468
+      internalID: -1782888429742155883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_225
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 57.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97ce71ad1bf544a9084b972f1240c374
+      internalID: -369107418897886287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_226
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 57.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 007cff7412207433693423cb0557a746
+      internalID: 4803710380638495999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_227
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 57.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfddc68e4b3184ac5b5abf4832f4900b
+      internalID: 3792901508953487531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_228
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 57.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27bdaf5267468495a952250892c45d16
+      internalID: -936968755392311044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_229
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 57.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea765bbbed25d45bd86beb1199f4b404
+      internalID: -1766092810696715803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_230
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 57.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4d438071c51543a785d09d4b240e2c8
+      internalID: -4678188200275020920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_231
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 57.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b08b19310cb6484a99471328d075147
+      internalID: 7127515662172275732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_232
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 41.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 916e6a94478ef44f784530ba5ddb1511
+      internalID: -2914998907328532078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_233
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 41.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19a6d6172496d42ceb3db3eea4f11b79
+      internalID: 8129367836586849128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_234
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 41.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f36c535bc17b24149ad319635f2e499e
+      internalID: 1122547096349772838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_235
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 41.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b413a29913004caaa8ae218ca5b4c0d
+      internalID: 54919871403335602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_236
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 41.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d18d5d198d51d47f2ac9bd608decf6ee
+      internalID: -529696398966896311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_237
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 41.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b94b2232330a84011a7f33f5dfd1c80b
+      internalID: -2548699996736475829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_238
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 41.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7e5a9e0a2512406a9c669b58dfd851b
+      internalID: -3887479403638632284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_239
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 41.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 013d424d81eb745a6a54156f01ae91c5
+      internalID: 8459941754730514990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_240
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 41.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c99b34204d094f23900b92a393370f5
+      internalID: -1957934428698011878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_241
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 41.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6862aec7080624b6c8dd2765022ffa7a
+      internalID: 6115031576483177224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_242
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 41.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aadc91b2c3ed743f0bab1da8b1e5e8a5
+      internalID: 5846106807854122053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_243
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 41.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f34704dd8523443aaac48f92b495ddd
+      internalID: -6354299445578352172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_244
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 41.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b9a237854a034fc3a210fe865ad903c
+      internalID: 6742431829012066531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_245
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 41.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f999f52b884904c108a17f47f7e501cb
+      internalID: 4902937220647470975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_246
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 41.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e293c462b1014901912deca937245c6
+      internalID: 974998040077129462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_247
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 41.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54a7d4b8e60c5433ca76ccd2a0704d09
+      internalID: 2785862436545534230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_248
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 41.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9a2d5616096846989695473aa9be281
+      internalID: 1859116118984071570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_249
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 41.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 800e7537a3c14466cbca663cdc59e4e7
+      internalID: -5137977165448816727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_250
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 41.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fc7a85ca2e71455e90660228ad04298
+      internalID: 2965100789583765172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_251
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 41.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aedb84e9b37a9458d9392dcd750eeeef
+      internalID: 6412563415456941591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_252
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 41.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0feb6678fe1e043e2be117c0afa19bd4
+      internalID: 7824539592120223725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_253
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 41.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cf58ebed2d344a77aae3b5faff4aafc
+      internalID: 3463322247306443697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_254
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 41.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13e36130395cb4928ae1ecf29f31a756
+      internalID: -1218698158372931105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_255
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 41.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8056ddd321a4d4cfcbc7672a365e556c
+      internalID: 7323068116027523695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_256
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 41.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1ffd975fe504439dbbaf8f398b53f2e
+      internalID: -3983690397626137793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_257
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 41.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0a5acaca7d2e40f4a62432543a38011
+      internalID: -217410920704728104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_258
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 41.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94b4c21c328a34390954519ef85094ea
+      internalID: -1602608640955695499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_259
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 41.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2de1084ca4da440e885280a4d039a572
+      internalID: 7854167101437948327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_260
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 41.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a04e1efbc4f64cc29c40889e5481d04
+      internalID: 6300322712733716611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_261
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 25.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f19bd162c9c284cbbaf51a4dfa6c6a37
+      internalID: 8231651863480045949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_262
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 25.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f88889cb96bc64976bdad3c7f7649071
+      internalID: 7675212399589385469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_263
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 25.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0a6ab86d4cd0441f8e20e59f7d3f49f
+      internalID: -2825465418333439290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_264
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 25.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b7c64552e9ed417183a5af5764c8656
+      internalID: -1789190769659638962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_265
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 25.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0e4a172a413d4039b99b8f73e1e011a
+      internalID: -3267988658181374881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_266
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 25.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9346ac46afbc4f878def7fb6e329527
+      internalID: 5188596957183024589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_267
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 25.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35d289fa53d5541fc944137d548299b0
+      internalID: 7764133855424492480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_268
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 25.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f125b535a527147a2967fd8f7d4c266f
+      internalID: 7370515494341438911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_269
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 25.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e05ef45e444b4624a0d48754ac523b6
+      internalID: -4997879580583255285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_270
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 25.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 462fa7cc9f42246aa969c2263ed33832
+      internalID: 8081086944120623505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_271
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 25.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 235bc799e72fe4618846ad14fd021696
+      internalID: -340293732473966505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_272
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 25.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ac63629e7b904aed8a7e1ff02cf8cd6
+      internalID: -2367466690992087523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_273
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 25.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 679b39574b0bd4a4c8cdd672f369fa98
+      internalID: -3388047689699172910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_274
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 25.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 062d397fc41a54615bef0a708438b2a0
+      internalID: -1109555160160245473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_275
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 25.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c91427b4ee8f5433d913163cbb6969f8
+      internalID: -3607036909590636750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_276
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 25.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15731ed08626e4ac4b91a7bae45c00ca
+      internalID: 7262508876818498283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_277
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 25.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2046f0d61e6d443c48cbe398ecf73e9f
+      internalID: -6689210701305765396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_278
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 25.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63778ab3ef12c45d6b384bf9673729b0
+      internalID: 6780331093918235980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_279
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 25.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd012970c1e32465a9d0325c26d95194
+      internalID: 3906870182361905781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_280
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 25.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e59a9150f6034d8f8126cdcb6a5d619
+      internalID: -8861519018123954417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_281
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 25.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30967cc8145074f8190a01ac1b41343c
+      internalID: -412582522035917632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_282
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 25.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61da6d61d24f84d26853a47b87b59b4f
+      internalID: -1385608360002606972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_283
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 25.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eae0580ccbaec4e0cb1eab4e22046384
+      internalID: -5102545749789569443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_284
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 25.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e249fe4075bf44a5f80b8dfe8f4d10e3
+      internalID: 8541191022199304630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_285
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 25.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bb0225021c9c4720b733f063cec9e30
+      internalID: -3210327661079467767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_286
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 25.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2002a2c4a09c8448eb1933989fe99442
+      internalID: 7491857237314686221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_287
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 25.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7185a06d96aa8418796895d6a6a3f147
+      internalID: 2323772969189644646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_288
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 25.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed4eb285a721a4d92869d62c465b39eb
+      internalID: -9213956255554310346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_289
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 25.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7beeb3b55efde4c9f94a728074659f91
+      internalID: 8030022790608380364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_290
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 9.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbed4ac07ae34450fb054b770354f222
+      internalID: -7561721186916282268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_291
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 9.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efb1ed372b12744babbba1fc7f393684
+      internalID: -8773744234228377517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_292
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 9.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da248807b28c2461b94089e4da0a386c
+      internalID: -7755740211822449628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_293
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 9.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10cb716575b71476fbdd31021ae1b1b6
+      internalID: 6896078549586527850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_294
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 9.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 913080448c58145c595bef7f555bd965
+      internalID: -385294696666075829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_295
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 9.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60aaaa0709b2341e5977626366c9c8be
+      internalID: -7283737252237208332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_296
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 9.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c855acd55d0d04bc085f0d106cf910ae
+      internalID: 7093578699478266536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_297
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 9.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 260c2a14570ba4be3a6e56135a4abd46
+      internalID: 6799630648780882511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_298
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 9.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76fbd2ef4546a484cb72007f22027f04
+      internalID: 8122461758407070407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_299
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 9.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6734e32b1c096406f897c0504225494a
+      internalID: -7441547462545365609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_300
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 9.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e75c15b1752245e9ae53aa811b606ba
+      internalID: -2841848166500062040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_301
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 9.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe1719c65e0dd431b99a8c2da5b78836
+      internalID: 5098039412564194789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_302
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 9.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 545a5aec1f210463bb92589c143434de
+      internalID: -5668003757162837036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_303
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 9.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e471ae38cc1974d1c94b831dcdeae74b
+      internalID: -178831552659878187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_304
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 9.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd1c8bc0ef47f4b1a8d84e5185448234
+      internalID: -7426176835100370606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_305
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 9.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf6efd8c9dd3b47b396426d0ea340df6
+      internalID: 8798841495404807385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_306
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 9.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07b4062d74903469cb254652a1b3433f
+      internalID: 2520431127112257506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_307
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 9.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9bec8d5f8ebf4e9b9e082a5bc5e47d4
+      internalID: 1117428242599154327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_308
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 9.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99247847e007a4e0282aef1b38ccaf6b
+      internalID: -8282875034598788463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_309
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 9.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45366ff46c9814c499e9a16d748954d8
+      internalID: 5455376892098949021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_310
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 9.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca369b85819404c3983fd9d863fb48d4
+      internalID: -3890826241721882074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_311
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 9.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae46ab94347c947b3a18d5091057f456
+      internalID: -3147878415425393242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_312
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 9.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac265a30c898741a6bd5bdfbb836905e
+      internalID: -6682890366480606198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_313
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 9.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e5c1380fd46845409a32bea2677a8d7
+      internalID: -5101095499143032480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_314
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 9.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccd6736fc738540a4b5f785e432d98f0
+      internalID: -3943086487436050030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_315
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 9.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 672670c64231248659f3ffcab7a40b41
+      internalID: 932346004300183712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_316
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 9.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ee4d46ae74584fdaa96c4232cff114c
+      internalID: 7144485407879780390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_317
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 9.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80cfd21c822c047079883dbbc2b1f248
+      internalID: 1235016407480642285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sscs-tiles_318
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 9.09091
+        width: 17.068966
+        height: 16.90909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 940be3ecf11424d82b1da5be1a55a08e
+      internalID: 221121025611320740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 1b50880727fd94f68a9285567ebf234e
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
