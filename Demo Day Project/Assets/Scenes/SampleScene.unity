@@ -482,6 +482,7 @@ GameObject:
   - component: {fileID: 1863435973}
   - component: {fileID: 1863435972}
   - component: {fileID: 1863435974}
+  - component: {fileID: 1863435975}
   m_Layer: 0
   m_Name: Police
   m_TagString: Untagged
@@ -571,6 +572,19 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!114 &1863435975
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1863435971}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ad2f1d8898733429fb813fc10796db5c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  speed: 0
 --- !u!1 &1889090520
 GameObject:
   m_ObjectHideFlags: 0
@@ -627,6 +641,7 @@ GameObject:
   - component: {fileID: 2004323560}
   - component: {fileID: 2004323559}
   - component: {fileID: 2004323562}
+  - component: {fileID: 2004323563}
   m_Layer: 0
   m_Name: Player
   m_TagString: Untagged
@@ -728,6 +743,28 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: da0d0cd213dbb420a8794c6e055cb9b0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  m_MovementSmoothing: 0.05
+--- !u!50 &2004323563
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2004323558}
+  m_BodyType: 0
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 0
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
 --- !u!1 &2022304194
 GameObject:
   m_ObjectHideFlags: 0
