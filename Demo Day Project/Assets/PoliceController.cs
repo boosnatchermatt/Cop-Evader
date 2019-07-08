@@ -5,6 +5,7 @@ using UnityEngine;
 public class PoliceController : MonoBehaviour
 {
     public float speed;
+    private float distance;
     private Transform target;
     // Start is called before the first frame update
     void Start()
@@ -17,5 +18,12 @@ public class PoliceController : MonoBehaviour
     {
         transform.position = Vector2.MoveTowards(transform.position,
          target.position, speed * Time.deltaTime);
+        distance = Vector3.Distance(target.position, transform.position);
+        if (distance > 10)
+        {
+            //transform.position = Vector2.MoveTowards(transform.position,
+            //target.position, speed * Time.deltaTime);
+        }
     }
+  
 }
