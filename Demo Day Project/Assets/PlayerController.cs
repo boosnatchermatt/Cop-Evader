@@ -20,7 +20,7 @@ public class PlayerController : MonoBehaviour
     {
         float moveHorizontal = Input.GetAxis("Horizontal");
         float moveVertical = Input.GetAxis("Vertical");
-        Vector3 targetVelocity = new Vector2(moveHorizontal * 10f, moveVertical * 10f);
+        Vector3 targetVelocity = new Vector2(moveHorizontal * 8f, moveVertical * 8f);
         rb2d.velocity = Vector3.SmoothDamp(rb2d.velocity, targetVelocity, ref velocity, m_MovementSmoothing);
     }
 
